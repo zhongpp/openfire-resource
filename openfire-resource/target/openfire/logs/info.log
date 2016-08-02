@@ -1,0 +1,46 @@
+2016.08.02 15:59:04 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2016.08.02 15:59:05 org.jivesoftware.openfire.XMPPServer - Openfire 3.10.2 [Aug 2, 2016 3:59:05 PM]
+2016.08.02 15:59:05 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2016.08.02 15:59:05 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2016.08.02 15:59:05 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console listening at http://zhongpp-pc:9090
+2016.08.02 15:59:59 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2016.08.02 15:59:59 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Servers Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Components Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Users Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing AnonymousUsers Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing User Sessions
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Roster
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Multicast Service
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Message Size
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for VCard
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Privacy Lists
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Clearspace SSO Nonce
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Presence Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Last Activity Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components Sessions
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Connection Managers Sessions
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Incoming Server Sessions
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sessions by Hostname
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Validated Domains
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Client Session Info Cache
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities Users
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Directed Presences
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for PEPServiceManager
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Published Items
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Features
+2016.08.02 16:01:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Items
+2016.08.02 16:01:19 org.jivesoftware.openfire.pubsub.PubSubModule - 发布-订阅域：pubsub.zhongpp-pc
+2016.08.02 16:01:19 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - 多用户聊天域：group.zhongpp-pc
+2016.08.02 16:01:19 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - 多用户聊天域：conference.zhongpp-pc
+2016.08.02 16:01:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Locked Out Accounts
+2016.08.02 16:01:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 开始服务器（未加密）在套接字端口： 5269
+2016.08.02 16:01:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 已在以下端口上启动普通（未加密）套接字：5222
+2016.08.02 16:01:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 已在以下端口上启动 SSL（已加密）套接字：5223
+2016.08.02 16:01:25 org.jivesoftware.openfire.http.HttpBindManager - Installed response compression filter
+2016.08.02 16:01:26 org.jivesoftware.openfire.http.HttpBindManager - HTTP bind service started
+2016.08.02 16:01:41 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group
+2016.08.02 16:01:41 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group Metadata Cache

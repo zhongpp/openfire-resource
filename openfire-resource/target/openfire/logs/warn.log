@@ -1,0 +1,6 @@
+2016.08.02 16:01:23 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.02 16:01:25 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.08.02 16:01:26 index.jsp - Failed to fetch RSS feed: javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: root certificate not trusted of [vanity2.jiveon.com]
+2016.08.02 16:01:27 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.08.02 16:01:38 org.jivesoftware.util.cache.CacheFactory - CacheFactory - Unable to find a Plugin that provides clustering support.
+2016.08.02 16:01:38 org.jivesoftware.util.cache.CacheFactory - Clustered cache factory strategy org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory not found
