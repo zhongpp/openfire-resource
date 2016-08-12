@@ -1,6 +1,71 @@
-2016.08.02 16:01:23 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
-2016.08.02 16:01:25 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
-2016.08.02 16:01:26 index.jsp - Failed to fetch RSS feed: javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: root certificate not trusted of [vanity2.jiveon.com]
-2016.08.02 16:01:27 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
-2016.08.02 16:01:38 org.jivesoftware.util.cache.CacheFactory - CacheFactory - Unable to find a Plugin that provides clustering support.
-2016.08.02 16:01:38 org.jivesoftware.util.cache.CacheFactory - Clustered cache factory strategy org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory not found
+2016.08.03 16:44:44 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 16:44:56 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-14] is already registered! com.hazelcast.concurrent.countdownlatch.client.CountDownLatchPortableHook$1@50082fe9 -> com.hazelcast.concurrent.countdownlatch.client.CountDownLatchPortableHook$1@4981930b); will retry in 10 seconds
+2016.08.03 16:45:20 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-3] is already registered! com.hazelcast.client.impl.client.ClientPortableFactory@3e27bb6 -> com.hazelcast.client.impl.client.ClientPortableFactory@a27ebb8); will retry in 10 seconds
+2016.08.03 16:52:33 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-3] is already registered! com.hazelcast.client.impl.client.ClientPortableFactory@7bc0c545 -> com.hazelcast.client.impl.client.ClientPortableFactory@2cd7747c); will retry in 10 seconds
+2016.08.03 16:53:05 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-3] is already registered! com.hazelcast.client.impl.client.ClientPortableFactory@3d4fea25 -> com.hazelcast.client.impl.client.ClientPortableFactory@49954295); will retry in 10 seconds
+2016.08.03 17:00:49 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:01:01 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-15] is already registered! com.hazelcast.concurrent.lock.client.LockPortableHook$1@90227ed -> com.hazelcast.concurrent.lock.client.LockPortableHook$1@6c8b3d39); will retry in 10 seconds
+2016.08.03 17:01:42 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-16] is already registered! com.hazelcast.concurrent.semaphore.client.SemaphorePortableHook$1@738d086 -> com.hazelcast.concurrent.semaphore.client.SemaphorePortableHook$1@2302111e); will retry in 10 seconds
+2016.08.03 17:04:14 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:12:39 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:12:51 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-19] is already registered! com.hazelcast.transaction.client.ClientTxnPortableHook$1@3e02bbe0 -> com.hazelcast.transaction.client.ClientTxnPortableHook$1@257c8eee); will retry in 10 seconds
+2016.08.03 17:13:14 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-16] is already registered! com.hazelcast.concurrent.semaphore.client.SemaphorePortableHook$1@7f5ad986 -> com.hazelcast.concurrent.semaphore.client.SemaphorePortableHook$1@257f2dbc); will retry in 10 seconds
+2016.08.03 17:14:43 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:20:47 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:22:43 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:33:38 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.03 17:33:43 index.jsp - Failed to fetch RSS feed: javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: root certificate not trusted of [vanity2.jiveon.com]
+2016.08.04 10:47:47 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.08.04 10:47:47 org.jivesoftware.util.log.util.CommonsLogFactory - Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2016.08.04 14:03:59 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 14:04:11 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-3] is already registered! com.hazelcast.client.impl.client.ClientPortableFactory@2eb51e52 -> com.hazelcast.client.impl.client.ClientPortableFactory@74d9b172); will retry in 10 seconds
+2016.08.04 14:04:34 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-24] is already registered! com.hazelcast.cache.impl.CachePortableHook$1@295cb293 -> com.hazelcast.cache.impl.CachePortableHook$1@4cfe61c); will retry in 10 seconds
+2016.08.04 14:06:07 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 14:10:06 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 14:11:47 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 14:12:32 org.jivesoftware.openfire.IQRouter - Error or result packet could not be delivered <iq type="result" id="Ug3Pp-8266" to="zpp@192.168.1.102/Sparkpc"/>
+2016.08.04 14:47:32 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 14:49:58 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 14:50:29 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 15:23:06 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 15:51:59 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 15:52:19 com.hazelcast.nio.tcp.ReadHandler - [192.168.3.225]:5701 [openfire] [3.5.1] hz.openfire.IO.thread-in-1 Closing socket to endpoint Address[192.168.1.136]:5701, Cause:java.io.EOFException: Remote socket closed!
+2016.08.04 15:53:11 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 16:10:34 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 16:12:41 com.hazelcast.nio.tcp.ReadHandler - [192.168.3.225]:5701 [openfire] [3.5.1] hz.openfire.IO.thread-in-1 Closing socket to endpoint Address[192.168.1.136]:5701, Cause:java.io.EOFException: Remote socket closed!
+2016.08.04 16:42:31 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 16:43:27 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 16:47:37 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 16:47:56 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.04 16:48:29 com.hazelcast.nio.tcp.ReadHandler - [192.168.3.225]:5701 [openfire] [3.5.1] hz.openfire.IO.thread-in-1 Closing socket to endpoint Address[192.168.1.136]:5701, Cause:java.io.EOFException: Remote socket closed!
+2016.08.04 16:55:30 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.05 10:28:51 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.05 10:29:04 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-16] is already registered! com.hazelcast.concurrent.semaphore.client.SemaphorePortableHook$1@4b62cb12 -> com.hazelcast.concurrent.semaphore.client.SemaphorePortableHook$1@43023168); will retry in 10 seconds
+2016.08.05 10:30:01 org.jivesoftware.openfire.http.HttpSessionManager - HttpSessionManager.init() recreate sendPacketPool
+2016.08.05 10:30:13 org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory - Failed to start clustering (PortableFactory[-15] is already registered! com.hazelcast.concurrent.lock.client.LockPortableHook$1@d5d9e71 -> com.hazelcast.concurrent.lock.client.LockPortableHook$1@7d4d1391); will retry in 10 seconds
+2016.08.05 11:21:20 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000006: nio socket, server, null => 0.0.0.0/0.0.0.0:5222)
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:273)
+	at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.java:44)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:690)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:664)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:653)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(AbstractPollingIoProcessor.java:67)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:1124)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+2016.08.05 11:21:22 org.jivesoftware.openfire.nio.OfflinePacketDeliverer - 无法路由数据包
+
+<iq type="result" id="nY9GA-39" to="zpp2@192.168.1.102/Spark"/>
+2016.08.05 11:22:06 org.jivesoftware.openfire.nio.OfflinePacketDeliverer - 无法路由数据包
+
+<iq type="result" id="nY9GA-41" to="zpp2@192.168.1.102/Spark"/>
+2016.08.05 11:26:39 org.jivesoftware.util.log.util.CommonsLogFactory - #0007 was active for 306646 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-3', but the last SQL it performed is unknown because the trace property is not enabled.
+2016.08.05 11:27:09 org.jivesoftware.util.log.util.CommonsLogFactory - #0008 was active for 322344 milliseconds and has been removed automaticaly. The Thread responsible was named 'C2S-Thread-5', but the last SQL it performed is unknown because the trace property is not enabled.

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/plugins/hazelcast/src/java"/>
 	<classpathentry kind="src" output="work/plugins-dev/broadcast/target/classes" path="src/plugins/broadcast/src/java"/>
 	<classpathentry kind="src" output="work/plugins-dev/clientControl/target/classes" path="src/plugins/clientControl/src/java"/>
 	<classpathentry kind="src" output="work/plugins-dev/contentFilter/target/classes" path="src/plugins/contentFilter/src/java"/>
@@ -158,6 +159,8 @@
 	<classpathentry kind="lib" path="src/plugins/userservice/lib/jettison-1.1.jar"/>
 	<classpathentry kind="lib" path="src/plugins/userservice/lib/jsr311-api-1.1.1.jar"/>
 	<classpathentry kind="lib" path="build/lib/merge/jetty-servlets.jar"/>
+	<classpathentry kind="lib" path="src/plugins/hazelcast/lib/hazelcast-3.5.1.jar"/>
+	<classpathentry kind="lib" path="src/plugins/hazelcast/lib/hazelcast-cloud-3.5.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_45"/>
 	<classpathentry kind="lib" path="src/plugins/stunserver/lib/jstun-0.6.1.jar"/>
 	<classpathentry kind="lib" path="build/lib/merge/jetty-jmx.jar"/>

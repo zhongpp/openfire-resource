@@ -40,22 +40,25 @@
     	<protocol>npn</protocol> 
     </spdy> 
     -->  
-  <connectionProvider>
-    <className>org.jivesoftware.database.DefaultConnectionProvider</className>
-  </connectionProvider> 
-  <database>
-    <defaultProvider>
-      <driver>com.mysql.jdbc.Driver</driver> 
-      <serverURL>jdbc:mysql://localhost:3306/of?rewriteBatchedStatements=true</serverURL> 
-      <username encrypted="true">954d050e5a3e24b68976b54aaa76114f84e8796de2a51287</username> 
-      <password encrypted="true">e288a6aded306fb27d5bca9ff31f3736635909b3fa8f06bf</password> 
-      <testSQL>select 1</testSQL> 
-      <testBeforeUse>false</testBeforeUse> 
-      <testAfterUse>false</testAfterUse> 
-      <minConnections>5</minConnections> 
-      <maxConnections>25</maxConnections> 
-      <connectionTimeout>1.0</connectionTimeout>
-    </defaultProvider>
-  </database> 
-  <setup>true</setup>
+  <connectionProvider> 
+    <className>org.jivesoftware.database.DefaultConnectionProvider</className> 
+  </connectionProvider>  
+  <database> 
+    <defaultProvider> 
+      <driver>com.mysql.jdbc.Driver</driver>  
+      <serverURL>jdbc:mysql://192.168.1.136:3306/ofcluster?rewriteBatchedStatements=true</serverURL>  
+      <username encrypted="true">0cc2061447170467cec684f49ceb22f266b3b3c4e78532ae2a2b74a6ead74b04</username>  
+      <password encrypted="true">ae7994d4e354dd1955d0f8ae6be0e6ade0c1e199a663cae1f1ec3275f541c01f</password>  
+      <testSQL>select 1</testSQL>  
+      <testBeforeUse>false</testBeforeUse>  
+      <testAfterUse>false</testAfterUse>  
+      <minConnections>5</minConnections>  
+      <maxConnections>25</maxConnections>  
+      <connectionTimeout>1.0</connectionTimeout> 
+    </defaultProvider> 
+  </database>  
+  <setup>true</setup>  
+  <clustering> 
+    <enabled>true</enabled> 
+  </clustering> 
 </jive>
